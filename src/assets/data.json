@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Plant 1",
+    "icon": "fa-sharp fa-solid fa-tree",
+    "category": "cat1",
+    "sun": 10,
+    "wet": 90,
+    "care": 50
+  },
+  {
+    "name": "Plant 2",
+    "icon": "fa-sharp fa-solid fa-leaf",
+    "category": "cat2",
+    "sun": 100,
+    "wet": 20,
+    "care": 90
+  },
+  {
+    "name": "Plant 3",
+    "icon": "fa-sharp fa-solid fa-tree",
+    "category": "cat1",
+    "sun": 40,
+    "wet": 50,
+    "care": 45
+  },
+  {
+    "name": "Plant 4",
+    "icon": "fa-sharp fa-solid fa-leaf",
+    "category": "cat2",
+    "sun": 75,
+    "wet": 10,
+    "care": 30
+  },
+  {
+    "name": "Plant 5",
+    "icon": "fa-sharp fa-solid fa-tree",
+    "category": "cat1",
+    "sun": 10,
+    "wet": 35,
+    "care": 45
+  },
+  {
+    "name": "Plant 6",
+    "icon": "fa-sharp fa-solid fa-leaf",
+    "category": "cat2",
+    "sun": 100,
+    "wet": 50,
+    "care": 35
+  }
+]
